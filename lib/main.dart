@@ -5,4 +5,6 @@ void main () {
   print('c6');
   print('c7');
   print('c8');
+
+  print('c9');
 }
