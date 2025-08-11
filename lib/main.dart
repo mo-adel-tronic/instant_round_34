@@ -3,4 +3,5 @@ void main () {
   print('c4');
 
   print('c6');
+  print('c5');
 }
